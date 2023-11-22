@@ -1,0 +1,6 @@
+#greenFlag {
+    background-image: url(Images/restart.png);
+}
+#greenFlag:hover {
+    background-image: url(Images/restart_hover.png);
+}
