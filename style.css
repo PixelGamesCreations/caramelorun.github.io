@@ -1,6 +1,9 @@
-#greenFlag {
+button{
+    width: 364px;
+    height:125px;
+    background-size: 100% 100%;
     background-image: url(Images/restart.png);
 }
-#greenFlag:hover {
+button:hover{
     background-image: url(Images/restart_hover.png);
 }
